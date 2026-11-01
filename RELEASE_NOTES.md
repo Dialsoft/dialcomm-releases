@@ -13,10 +13,11 @@ The Windows and Android versions share one terminal engine, so their version num
 - **Check for Updates.** Help → Check for Updates (Windows) or Settings → Check for updates (Android). On Windows it downloads the new version beside the old one and starts it, and your directory and settings carry over. On Android it downloads the new app to install. DialComm also checks by itself once a day (you can turn that off), and a version can be skipped.
 - **Tell a Friend.** Sends someone a note with the download link. On Windows you can choose email, Gmail, Outlook.com, Facebook Messenger, a Facebook post, WhatsApp, Telegram, X, Reddit, Discord or a text message, and the message can be edited first. On Android it opens the phone's own share menu.
 - **Release Notes** (this document) are now inside the app: Help → Release Notes.
+- **Code documentation:** every source file was given full internal comments: a summary at the top of each file, the purpose of each section and function, and the reasons behind tricky code. About a quarter of all lines are now comments, up from about 7%. A check proved the program itself was not changed.
 
 **Fixed**
-- Rapid Connect: choosing the first BBS in the list did nothing, because it was already showing. The box now starts on "Pick a BBS to call…", so every BBS calls.
-- The tab strip no longer rebuilds itself while a busy BBS is sending, so a click on a tab always lands.
+- Rapid Connect's first BBS: choosing the first BBS in the list did nothing, because it was already showing. The box now starts on "Pick a BBS to call…", so every BBS calls.
+- Tab clicks: the tab strip no longer rebuilds itself while a busy BBS is sending, so a click on a tab always lands.
 
 ## Windows 1.6.0 / Android 1.8.0 – November 1, 2026
 - **Tabs: several BBSes at once.** Each BBS gets its own tab, like a web browser. Each tab keeps its own screen, scrollback, fonts, capture file, script and file transfers, and background tabs keep running.
