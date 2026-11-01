@@ -1,0 +1,17 @@
+{
+  "page": "https://github.com/Dialsoft/dialcomm-releases",
+  "windows": {
+    "version": "1.7.0",
+    "file": "DialComm-1.7.0-Portable.exe",
+    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.7.0/DialComm-1.7.0-Portable.exe",
+    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/windows-1.7.0",
+    "notes": "New ribbon across the top (or keep the classic Procomm look: Setup → Window → Look).\nCheck for Updates and Tell a Friend in the Help menu.\nTabs: be on several BBSes at once.\nRapid Connect now calls the first BBS in the list too."
+  },
+  "android": {
+    "version": "1.9.0",
+    "file": "DialComm-1.9.0.apk",
+    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/android-1.9.0/DialComm-1.9.0.apk",
+    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/android-1.9.0",
+    "notes": "Be on several BBSes at once: tap the BBS name at the top to switch.\nCheck for updates and Tell a friend in Settings."
+  }
+}
