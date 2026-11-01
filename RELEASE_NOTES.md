@@ -5,6 +5,16 @@ The Windows and Android versions share one terminal engine, so their version num
 
 ---
 
+## Windows 1.7.1 – November 1, 2026
+
+**New**
+- **Fast-starting installer.** DialComm for Windows now comes as an installer, DialComm-1.7.1-Setup.exe. It installs into your own user folder (no administrator rights needed), adds Start menu and desktop shortcuts, and opens DialComm in a second or two instead of about 20 seconds. Check for Updates installs new versions the same way, all by itself.
+- **Portable copy still offered.** DialComm-1.7.1-Portable.exe needs no installing and runs from anywhere, such as a USB stick. It still takes 15–20 seconds to open, because it unpacks the whole program each time it starts. A portable copy keeps updating itself as a portable copy.
+- **Smaller.** Only the English language files of the built-in browser engine are included, which saves about 50 MB on disk.
+
+**Fixed**
+- Slow start: the old portable-only download unpacked about 360 MB to a temporary folder, and Windows Defender scanned it, every time DialComm opened.
+
 ## Windows 1.7.0 / Android 1.9.0 – November 1, 2026
 
 **New**
@@ -66,7 +76,7 @@ SyncTERM-class terminal features:
 | Part | What it is built with |
 |---|---|
 | Programming languages | **JavaScript** (Node.js / ECMAScript 2022) for the terminal engine and screens; **HTML5** and **CSS3** for the windows and controls; **Java** for the Android parts that talk to the phone (network sockets, background service, sharing, downloads) |
-| Windows program | **Electron 45** (the Chromium browser engine with Node.js), packaged as a single portable .exe by **electron-builder 26**. **resedit** writes the Dialsoft LLC version, copyright and credit details into the .exe |
+| Windows program | **Electron 45** (the Chromium browser engine with Node.js), packaged by **electron-builder 26** as an installer (NSIS) and as a no-install portable .exe. **resedit** writes the Dialsoft LLC version, copyright and credit details into the .exe |
 | Android app | **Capacitor 7** (runs the shared engine inside Android's WebView), the **Android SDK** (API level 35, works on Android 8.0 / API 26 and newer), **Gradle**, **Java 21**. **esbuild** bundles the shared engine for the phone |
 | Shared engine | The same source files run on both: screen emulation, fonts, RIPscrip, file transfers, scripting, the directory and settings. Small "shims" stand in for Windows-only pieces on Android |
 | Libraries | **ssh2** (SSH connections), **serialport** (real modems), **zmodem.js** (Zmodem protocol), **libjxl** compiled to WebAssembly (JPEG XL pictures), VileR's **Oldschool PC Font Pack** (fonts, CC BY-SA 4.0) |

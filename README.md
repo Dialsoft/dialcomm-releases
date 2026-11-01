@@ -17,10 +17,11 @@ DialComm calls the bulletin board systems still running today over the internet 
 
 | | Version | File |
 |---|---|---|
-| **Windows** (10 and 11, no install needed) | 1.7.0 | [DialComm-1.7.0-Portable.exe](https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.7.0/DialComm-1.7.0-Portable.exe) |
+| **Windows** (10 and 11): installer, recommended | 1.7.1 | [DialComm-1.7.1-Setup.exe](https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.7.1/DialComm-1.7.1-Setup.exe) |
+| **Windows**: portable, no install (for USB sticks; slower to start) | 1.7.1 | [DialComm-1.7.1-Portable.exe](https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.7.1/DialComm-1.7.1-Portable.exe) |
 | **Android** | 1.9.0 | [DialComm-1.9.0.apk](https://github.com/Dialsoft/dialcomm-releases/releases/download/android-1.9.0/DialComm-1.9.0.apk) |
 
-**Windows:** download the .exe and run it. Windows may warn that it doesn't recognise the program; click *More info* → *Run anyway*.
+**Windows:** download the **Setup** file and run it. It installs DialComm for you (no administrator rights needed), adds Start menu and desktop shortcuts, and opens it; after that DialComm starts in a second or two. The **portable** file needs no installing and runs from anywhere, such as a USB stick, but it unpacks itself each time, so it takes 15–20 seconds to open. Windows may warn that it doesn't recognise the program; click *More info* → *Run anyway*.
 
 **Android:** open the .apk on your phone. Android asks you to allow installs from your browser the first time.
 
