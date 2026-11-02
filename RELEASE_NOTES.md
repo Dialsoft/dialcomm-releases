@@ -5,6 +5,11 @@ The Windows and Android versions share one terminal engine, so their version num
 
 ---
 
+## Windows 1.7.2 – November 2, 2026
+
+**New**
+- **Skip Tour.** The welcome tour that opens when DialComm starts now has a clear Skip Tour button on every page. Tick "Don't show this at startup" too and it won't open by itself again (Help → Welcome Tour still shows it).
+
 ## Windows 1.7.1 – November 1, 2026
 
 **New**
