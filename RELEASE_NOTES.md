@@ -5,6 +5,11 @@ The Windows and Android versions share one terminal engine, so their version num
 
 ---
 
+## Windows 1.7.5 – November 3, 2026
+
+**Changed**
+- **Always opens on Home.** DialComm now starts on the ribbon's Home tab every time, where Rapid Connect and the Directory are, instead of the tab you used last.
+
 ## Windows 1.7.4 / Android 1.9.1 – November 3, 2026
 
 **New**
