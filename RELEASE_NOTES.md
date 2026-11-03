@@ -5,6 +5,11 @@ The Windows and Android versions share one terminal engine, so their version num
 
 ---
 
+## Windows 1.7.3 – November 2, 2026
+
+**New**
+- **Clearer ribbon.** Each group of buttons is now its own panel with a label strip underneath, every button is a visible tile, and the tab you're on is marked in orange, so the options are easy to tell apart at a glance.
+
 ## Windows 1.7.2 – November 2, 2026
 
 **New**
