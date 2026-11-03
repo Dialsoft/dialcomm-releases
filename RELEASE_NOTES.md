@@ -5,6 +5,11 @@ The Windows and Android versions share one terminal engine, so their version num
 
 ---
 
+## Windows 1.8.0 / Android 1.10.0 – November 3, 2026
+
+**New**
+- **Telnet BBS Guide.** Over a thousand BBSes to call, from the monthly list published by The BBS Corner at telnetbbsguide.com. On Windows it's under Rapid Connect on the ribbon's Home tab (and File → Telnet BBS Guide). Search by name, BBS software or place, then Call one or Add it to your Connection Directory. On Android it's at the bottom of the BBS list, and its BBSes appear when you search. DialComm downloads the newest list from telnetbbsguide.com by itself each month and keeps a copy for offline use; the list is credited to The BBS Corner / The Telnet BBS Guide wherever it's shown.
+
 ## Windows 1.7.5 – November 3, 2026
 
 **Changed**

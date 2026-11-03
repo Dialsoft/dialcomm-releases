@@ -1,19 +1,19 @@
 {
   "page": "https://github.com/Dialsoft/dialcomm-releases",
   "windows": {
-    "version": "1.7.5",
-    "file": "DialComm-1.7.5-Setup.exe",
-    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.7.5/DialComm-1.7.5-Setup.exe",
-    "portableFile": "DialComm-1.7.5-Portable.exe",
-    "portableUrl": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.7.5/DialComm-1.7.5-Portable.exe",
-    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/windows-1.7.5",
-    "notes": "Always opens on Home"
+    "version": "1.8.0",
+    "file": "DialComm-1.8.0-Setup.exe",
+    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.8.0/DialComm-1.8.0-Setup.exe",
+    "portableFile": "DialComm-1.8.0-Portable.exe",
+    "portableUrl": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.8.0/DialComm-1.8.0-Portable.exe",
+    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/windows-1.8.0",
+    "notes": "Telnet BBS Guide"
   },
   "android": {
-    "version": "1.9.1",
-    "file": "DialComm-1.9.1.apk",
-    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/android-1.9.1/DialComm-1.9.1.apk",
-    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/android-1.9.1",
-    "notes": "Always opens on Home"
+    "version": "1.10.0",
+    "file": "DialComm-1.10.0.apk",
+    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/android-1.10.0/DialComm-1.10.0.apk",
+    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/android-1.10.0",
+    "notes": "Telnet BBS Guide"
   }
 }
