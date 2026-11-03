@@ -5,6 +5,11 @@ The Windows and Android versions share one terminal engine, so their version num
 
 ---
 
+## Windows 1.7.4 / Android 1.9.1 – November 3, 2026
+
+**New**
+- **Featured BBSes.** Jungle BBS (bbs.junglebbs.com), Jungle STS (junglebbs.com) and Land of the Lost (landofthelost.ca, port 2300) are now at the top of the Connection Directory and Rapid Connect, on Windows and Android. New installs start with them, and existing directories get them added once. Ones you already had keep their call history and logon details.
+
 ## Windows 1.7.3 – November 2, 2026
 
 **New**

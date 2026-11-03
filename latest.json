@@ -1,19 +1,19 @@
 {
   "page": "https://github.com/Dialsoft/dialcomm-releases",
   "windows": {
-    "version": "1.7.3",
-    "file": "DialComm-1.7.3-Setup.exe",
-    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.7.3/DialComm-1.7.3-Setup.exe",
-    "portableFile": "DialComm-1.7.3-Portable.exe",
-    "portableUrl": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.7.3/DialComm-1.7.3-Portable.exe",
-    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/windows-1.7.3",
-    "notes": "Clearer ribbon"
+    "version": "1.7.4",
+    "file": "DialComm-1.7.4-Setup.exe",
+    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.7.4/DialComm-1.7.4-Setup.exe",
+    "portableFile": "DialComm-1.7.4-Portable.exe",
+    "portableUrl": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.7.4/DialComm-1.7.4-Portable.exe",
+    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/windows-1.7.4",
+    "notes": "Featured BBSes"
   },
   "android": {
-    "version": "1.9.0",
-    "file": "DialComm-1.9.0.apk",
-    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/android-1.9.0/DialComm-1.9.0.apk",
-    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/android-1.9.0",
-    "notes": "Clearer ribbon"
+    "version": "1.9.1",
+    "file": "DialComm-1.9.1.apk",
+    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/android-1.9.1/DialComm-1.9.1.apk",
+    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/android-1.9.1",
+    "notes": "Featured BBSes"
   }
 }
