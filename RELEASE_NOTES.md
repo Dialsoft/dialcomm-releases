@@ -5,6 +5,13 @@ The Windows and Android versions share one terminal engine, so their version num
 
 ---
 
+## Windows 1.8.3 / Android 1.10.1 – November 3, 2026
+
+**Improved: ANSI art accuracy, tested against 500 real ANSIs from 16colo.rs**
+- **How it was tested:** a new test bench draws 500 randomly chosen ANSI art files from every era with DialComm's own screen engine and compares every character with the reference pictures on 16colo.rs (drawn by ansilove, the art scene's standard). DialComm 1.8.2 drew 53.5% of them exactly right; this version draws **77.3%** exactly right, and **93.8%** of all characters match (99.6% for VGA 9-pixel art).
+- **Column 80:** when a line fills the last column, the cursor now moves to the next line straight away, as DOS ANSI.SYS, the BBS terminals of the day and SyncTERM do (SyncTERM's own specification says so). Before, DialComm waited for the next character, as VT100 terminals do, which scrambled art that skips the line break after a full line. Setup → Terminal Options has a switch for the VT100 way, and BBSes can ask for it with SyncTERM's CSI = 4 h / CSI = 5 h.
+- **Picture characters:** the bytes NUL, SO, SI, XON, XOFF and DEL now show their code page 437 pictures (blank, ♫, ☼, ◄, ‼, ⌂) instead of nothing, as DOS showed them, so art that uses them no longer drifts sideways. A NUL right after a carriage return (telnet's line-end padding) is still ignored.
+
 ## Windows 1.8.2 – November 3, 2026
 
 **New**

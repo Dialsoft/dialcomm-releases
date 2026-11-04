@@ -1,19 +1,19 @@
 {
   "page": "https://github.com/Dialsoft/dialcomm-releases",
   "windows": {
-    "version": "1.8.2",
-    "file": "DialComm-1.8.2-Setup.exe",
-    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.8.2/DialComm-1.8.2-Setup.exe",
-    "portableFile": "DialComm-1.8.2-Portable.exe",
-    "portableUrl": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.8.2/DialComm-1.8.2-Portable.exe",
-    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/windows-1.8.2",
-    "notes": "Version on the status line"
+    "version": "1.8.3",
+    "file": "DialComm-1.8.3-Setup.exe",
+    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.8.3/DialComm-1.8.3-Setup.exe",
+    "portableFile": "DialComm-1.8.3-Portable.exe",
+    "portableUrl": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.8.3/DialComm-1.8.3-Portable.exe",
+    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/windows-1.8.3",
+    "notes": "How it was tested\nColumn 80\nPicture characters"
   },
   "android": {
-    "version": "1.10.0",
-    "file": "DialComm-1.10.0.apk",
-    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/android-1.10.0/DialComm-1.10.0.apk",
-    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/android-1.10.0",
-    "notes": "Version on the status line"
+    "version": "1.10.1",
+    "file": "DialComm-1.10.1.apk",
+    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/android-1.10.1/DialComm-1.10.1.apk",
+    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/android-1.10.1",
+    "notes": "How it was tested\nColumn 80\nPicture characters"
   }
 }
