@@ -17,8 +17,8 @@ DialComm calls the bulletin board systems still running today over the internet 
 
 | | Version | File |
 |---|---|---|
-| **Windows** (10 and 11): installer, recommended | 1.8.1 | [DialComm-1.8.1-Setup.exe](https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.8.1/DialComm-1.8.1-Setup.exe) |
-| **Windows**: portable, no install (for USB sticks; slower to start) | 1.8.1 | [DialComm-1.8.1-Portable.exe](https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.8.1/DialComm-1.8.1-Portable.exe) |
+| **Windows** (10 and 11): installer, recommended | 1.8.2 | [DialComm-1.8.2-Setup.exe](https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.8.2/DialComm-1.8.2-Setup.exe) |
+| **Windows**: portable, no install (for USB sticks; slower to start) | 1.8.2 | [DialComm-1.8.2-Portable.exe](https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.8.2/DialComm-1.8.2-Portable.exe) |
 | **Android** | 1.10.0 | [DialComm-1.10.0.apk](https://github.com/Dialsoft/dialcomm-releases/releases/download/android-1.10.0/DialComm-1.10.0.apk) |
 
 **Windows:** download the **Setup** file and run it. It installs DialComm for you (no administrator rights needed), adds Start menu and desktop shortcuts, and opens it; after that DialComm starts in a second or two. The **portable** file needs no installing and runs from anywhere, such as a USB stick, but it unpacks itself each time, so it takes 15–20 seconds to open. Windows may warn that it doesn't recognise the program; click *More info* → *Run anyway*.

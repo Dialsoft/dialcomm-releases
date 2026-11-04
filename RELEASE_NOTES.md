@@ -5,6 +5,11 @@ The Windows and Android versions share one terminal engine, so their version num
 
 ---
 
+## Windows 1.8.2 – November 3, 2026
+
+**New**
+- **Version on the status line.** Next to "Ready" at the bottom of the window, DialComm shows its version. When a newer one is out, the box turns yellow and says "Update available", and clicking it shows what's new and installs it. DialComm looks for a new version when it starts and every 6 hours (only when checking for updates is on in Setup → Window).
+
 ## Windows 1.8.1 – November 3, 2026
 
 **Fixed**
