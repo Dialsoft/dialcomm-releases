@@ -5,6 +5,18 @@ The Windows and Android versions share one terminal engine, so their version num
 
 ---
 
+## Windows 1.8.4 / Android 1.10.2 – November 3, 2026
+
+**New: address book folders and colour-coded hosts**
+- **Folders.** The Connection Directory now has a Folders column. Make folders of your own (New, Rename, Delete, or right-click), and file BBSes in them by dragging them onto a folder, with the new Folder box in Entry Info, or from the right-click menu. Pick All entries, a folder, or Not in a folder to see just those BBSes; the numbers show how many are in each. Deleting a folder never deletes its BBSes. Find also searches folder names.
+- **Colour labels.** Give any BBS one of ten colours (the swatches in Entry Info, or right-click). The colour shows as a dot in the Directory, in Rapid Connect, and as a bar along the top of the BBS's tab.
+- **Rapid Connect follows your folders:** BBSes not in a folder first, then a heading for each folder, in the order you arranged them.
+- BBSes added from the Telnet BBS Guide go into a *Telnet BBS Guide* folder.
+- **Android:** the BBS list is grouped by folder (tap a folder's heading to fold it away) with a coloured stripe for each colour label; Edit BBS has Folder and Colour label, and ⋮ has Move to a folder and Colour label. Folders and colours are the same ones as on Windows.
+
+**Fixed**
+- Modem-speed pacing: text that arrives in the same block as a speed change (CSI Ps1 ; Ps2 * r) is now shown at the new speed straight away, instead of at the old one.
+
 ## Windows 1.8.3 / Android 1.10.1 – November 3, 2026
 
 **Improved: ANSI art accuracy, tested against 500 real ANSIs from 16colo.rs**

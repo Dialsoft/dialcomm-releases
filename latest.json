@@ -1,19 +1,19 @@
 {
   "page": "https://github.com/Dialsoft/dialcomm-releases",
   "windows": {
-    "version": "1.8.3",
-    "file": "DialComm-1.8.3-Setup.exe",
-    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.8.3/DialComm-1.8.3-Setup.exe",
-    "portableFile": "DialComm-1.8.3-Portable.exe",
-    "portableUrl": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.8.3/DialComm-1.8.3-Portable.exe",
-    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/windows-1.8.3",
-    "notes": "How it was tested\nColumn 80\nPicture characters"
+    "version": "1.8.4",
+    "file": "DialComm-1.8.4-Setup.exe",
+    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.8.4/DialComm-1.8.4-Setup.exe",
+    "portableFile": "DialComm-1.8.4-Portable.exe",
+    "portableUrl": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.8.4/DialComm-1.8.4-Portable.exe",
+    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/windows-1.8.4",
+    "notes": "Folders\nColour labels\nRapid Connect follows your folders\nBBSes added from the Telnet BBS Guide go into a Telnet BBS Guide…\nAndroid\nFixed: Modem-speed pacing"
   },
   "android": {
-    "version": "1.10.1",
-    "file": "DialComm-1.10.1.apk",
-    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/android-1.10.1/DialComm-1.10.1.apk",
-    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/android-1.10.1",
-    "notes": "How it was tested\nColumn 80\nPicture characters"
+    "version": "1.10.2",
+    "file": "DialComm-1.10.2.apk",
+    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/android-1.10.2/DialComm-1.10.2.apk",
+    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/android-1.10.2",
+    "notes": "Folders\nColour labels\nRapid Connect follows your folders\nBBSes added from the Telnet BBS Guide go into a Telnet BBS Guide…\nAndroid\nFixed: Modem-speed pacing"
   }
 }
