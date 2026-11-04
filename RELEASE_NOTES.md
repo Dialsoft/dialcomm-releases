@@ -5,6 +5,11 @@ The Windows and Android versions share one terminal engine, so their version num
 
 ---
 
+## Windows 1.8.1 – November 3, 2026
+
+**Fixed**
+- Rapid Connect alignment: the Rapid Connect box and the Telnet BBS Guide button under it now line up exactly, with the same width and height.
+
 ## Windows 1.8.0 / Android 1.10.0 – November 3, 2026
 
 **New**

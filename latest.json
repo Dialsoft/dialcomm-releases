@@ -1,19 +1,19 @@
 {
   "page": "https://github.com/Dialsoft/dialcomm-releases",
   "windows": {
-    "version": "1.8.0",
-    "file": "DialComm-1.8.0-Setup.exe",
-    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.8.0/DialComm-1.8.0-Setup.exe",
-    "portableFile": "DialComm-1.8.0-Portable.exe",
-    "portableUrl": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.8.0/DialComm-1.8.0-Portable.exe",
-    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/windows-1.8.0",
-    "notes": "Telnet BBS Guide"
+    "version": "1.8.1",
+    "file": "DialComm-1.8.1-Setup.exe",
+    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.8.1/DialComm-1.8.1-Setup.exe",
+    "portableFile": "DialComm-1.8.1-Portable.exe",
+    "portableUrl": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.8.1/DialComm-1.8.1-Portable.exe",
+    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/windows-1.8.1",
+    "notes": "Fixed: Rapid Connect alignment"
   },
   "android": {
     "version": "1.10.0",
     "file": "DialComm-1.10.0.apk",
     "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/android-1.10.0/DialComm-1.10.0.apk",
     "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/android-1.10.0",
-    "notes": "Telnet BBS Guide"
+    "notes": "Fixed: Rapid Connect alignment"
   }
 }
