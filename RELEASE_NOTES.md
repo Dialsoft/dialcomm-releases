@@ -5,6 +5,15 @@ The Windows and Android versions share one terminal engine, so their version num
 
 ---
 
+## Windows 1.9.1 – November 4, 2026
+
+**New: Quick Dial**
+- A **Quick Dial** button next to Connect on the ribbon's Home tab (also File → Quick Dial…, the toolbar in the classic look, and Ctrl+Shift+Q). Type an address, with the port after a colon if you like (bbs.example.com:2323), pick **Telnet, Secure Telnet, SSH or RLogin**, and press Enter: DialComm calls it straight away, without adding it to the Connection Directory first.
+- The port follows the connection type (23, 992, 22, 513) unless you type your own; SSH and RLogin show user name and password boxes.
+- The last 15 addresses are remembered in the drop-down, with their port and connection type.
+- Tick **Save it in the Connection Directory** to keep it (in a "Quick Dial" folder, with its call history). An address already in your Directory uses that entry, logon details and all.
+- Paste on the ribbon's Home tab is now a small button, so the Home tab still fits a 1024-pixel-wide window.
+
 ## Windows 1.9.0 / Android 1.11.0 – November 4, 2026
 
 **New: ANSI Art Viewer (Windows)**

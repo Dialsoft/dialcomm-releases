@@ -1,19 +1,19 @@
 {
   "page": "https://github.com/Dialsoft/dialcomm-releases",
   "windows": {
-    "version": "1.9.0",
-    "file": "DialComm-1.9.0-Setup.exe",
-    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.0/DialComm-1.9.0-Setup.exe",
-    "portableFile": "DialComm-1.9.0-Portable.exe",
-    "portableUrl": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.0/DialComm-1.9.0-Portable.exe",
-    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/windows-1.9.0",
-    "notes": "File → View ANSI Art…\nShows the SAUCE details\n◀ ▶\nPlay\nZoom\nIn art-file mode the bell, form feed and vertical tab characters…\nSetup → Transfer Protocol → Capture as\nxterm"
+    "version": "1.9.1",
+    "file": "DialComm-1.9.1-Setup.exe",
+    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.1/DialComm-1.9.1-Setup.exe",
+    "portableFile": "DialComm-1.9.1-Portable.exe",
+    "portableUrl": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.1/DialComm-1.9.1-Portable.exe",
+    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/windows-1.9.1",
+    "notes": "A Quick Dial button next to Connect on the ribbon's Home tab (also…\nThe port follows the connection type (23, 992, 22, 513) unless you…\nThe last 15 addresses are remembered in the drop-down, with their…\nTick Save it in the Connection Directory to keep it (in a \"Quick…\nPaste on the ribbon's Home tab is now a small button, so the Home…"
   },
   "android": {
     "version": "1.11.0",
     "file": "DialComm-1.11.0.apk",
     "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/android-1.11.0/DialComm-1.11.0.apk",
     "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/android-1.11.0",
-    "notes": "File → View ANSI Art…\nShows the SAUCE details\n◀ ▶\nPlay\nZoom\nIn art-file mode the bell, form feed and vertical tab characters…\nSetup → Transfer Protocol → Capture as\nxterm"
+    "notes": "A Quick Dial button next to Connect on the ribbon's Home tab (also…\nThe port follows the connection type (23, 992, 22, 513) unless you…\nThe last 15 addresses are remembered in the drop-down, with their…\nTick Save it in the Connection Directory to keep it (in a \"Quick…\nPaste on the ribbon's Home tab is now a small button, so the Home…"
   }
 }
