@@ -5,6 +5,38 @@ The Windows and Android versions share one terminal engine, so their version num
 
 ---
 
+## Windows 1.9.0 / Android 1.11.0 – November 4, 2026
+
+**New: ANSI Art Viewer (Windows)**
+- **File → View ANSI Art…** (also on the ribbon's Home tab, Capture group, or drag a file onto the window) shows art files from your PC: ANSI (.ANS, .ICE), text (.ASC, .NFO, .DIZ), Avatar (.AVT), PCBoard (.PCB) and the other BBS colour codes (PCBoard @X, Wildcat @@, WWIV heart codes and |00 pipe codes), Binary (.BIN), XBin (.XB, with its own palette and font), Artworx (.ADF), iCE Draw (.IDF) and TundraDraw (.TND, 24-bit colour). All seven of ansilove's test pictures, one per format, come out pixel-for-pixel the same as ansilove draws them.
+- Shows the SAUCE details: title, artist, group, date, font and comments.
+- **◀ ▶** step through every art file in the same folder, for looking through a whole art pack.
+- **Play** draws the file at the speed of a modem you pick (300 to 115,200 baud), so ANSI animations move the way they were made. Space plays and pauses.
+- Zoom (fit to window, 1x, 2x, 3x), 8 or 9 dots per character, iCE colours on or off, and **Save as Picture** (PNG).
+- In art-file mode the bell, form feed and vertical tab characters show as their pictures and Unix line endings are understood, as art viewers do. On the whole 16colo.rs archive (57,110 comparable files) this draws **96.7%** of files exactly pixel-perfect and **99.79%** of all characters identical to the reference. (A live BBS still gets these characters treated as commands, as it should.)
+
+**New: recording a session with timing**
+- Setup → Transfer Protocol → **Capture as: Recording with timing (.ttyrec)**. The capture remembers when each piece of the BBS's output arrived, and the ANSI Art Viewer plays it back exactly as it happened. ttyrec is a standard format other players read too.
+
+**New emulations**
+- **xterm (Linux / Unix)** and **Linux console**, for shell accounts: UTF-8, 256 and 24-bit colour, the **alternate screen** (vim, nano, mc and htop give you your screen back when they exit), xterm's keys including Ctrl/Shift/Alt with the arrows and function keys, Alt as Meta, and mouse reporting.
+- **SCO ANSI**, with SCO's colour codes and keys.
+- **Wyse 50, Wyse 60, TeleVideo 925 and TeleVideo 950**, the "ASCII" terminals of old Unix, Xenix, PICK and accounting systems: their cursor, editing, attribute and line-graphics codes, and the keys they send.
+
+**Improved: VT100 / VT220**
+- Checked against **vttest**, the standard VT test program (cursor movement, screen features, double-size characters, terminal reports, VT52 mode, VT102 insert/delete), and fixed what it found:
+  - real **underlining**; **double-width and double-height lines**; **reverse screen** (DECSCNM); **80/132 column switching** (DECCOLM) clears the screen as a real VT does and resizes the screen for that call
+  - **VT52 mode** inside VT100 (ESC [ ? 2 l)
+  - control characters inside an escape sequence are carried out, as on a real VT
+  - cursor position reports in origin mode, new-line mode (Enter sends CR LF), the "terminal parameters" report (DECREQTPARM), and the number pad's application mode
+  - the **printer port**: what the host prints (CSI 5 i ... CSI 4 i, print screen, print line) is saved to a text file in your Capture folder
+
+**New: Secure Telnet (TelnetS)**
+- Connection Directory → Advanced Options → Connect using → **Secure Telnet (TLS)**, usually port 992, on Windows and Android. BBSes nearly always make their own certificates, so DialComm remembers each BBS's certificate the first time and warns you if it ever changes (as with SSH keys). The status line says when a call is encrypted.
+
+**New: Directory thumbnails (Windows)**
+- Entry Info in the Connection Directory shows a small picture of the BBS's screen from the end of your last call, so you can recognise your BBSes at a glance. It's updated every call.
+
 ## Windows 1.8.4 / Android 1.10.2 – November 3, 2026
 
 **New: address book folders and colour-coded hosts**

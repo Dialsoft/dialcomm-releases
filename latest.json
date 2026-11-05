@@ -1,19 +1,19 @@
 {
   "page": "https://github.com/Dialsoft/dialcomm-releases",
   "windows": {
-    "version": "1.8.4",
-    "file": "DialComm-1.8.4-Setup.exe",
-    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.8.4/DialComm-1.8.4-Setup.exe",
-    "portableFile": "DialComm-1.8.4-Portable.exe",
-    "portableUrl": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.8.4/DialComm-1.8.4-Portable.exe",
-    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/windows-1.8.4",
-    "notes": "Folders\nColour labels\nRapid Connect follows your folders\nBBSes added from the Telnet BBS Guide go into a Telnet BBS Guide…\nAndroid\nFixed: Modem-speed pacing"
+    "version": "1.9.0",
+    "file": "DialComm-1.9.0-Setup.exe",
+    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.0/DialComm-1.9.0-Setup.exe",
+    "portableFile": "DialComm-1.9.0-Portable.exe",
+    "portableUrl": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.0/DialComm-1.9.0-Portable.exe",
+    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/windows-1.9.0",
+    "notes": "File → View ANSI Art…\nShows the SAUCE details\n◀ ▶\nPlay\nZoom\nIn art-file mode the bell, form feed and vertical tab characters…\nSetup → Transfer Protocol → Capture as\nxterm"
   },
   "android": {
-    "version": "1.10.2",
-    "file": "DialComm-1.10.2.apk",
-    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/android-1.10.2/DialComm-1.10.2.apk",
-    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/android-1.10.2",
-    "notes": "Folders\nColour labels\nRapid Connect follows your folders\nBBSes added from the Telnet BBS Guide go into a Telnet BBS Guide…\nAndroid\nFixed: Modem-speed pacing"
+    "version": "1.11.0",
+    "file": "DialComm-1.11.0.apk",
+    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/android-1.11.0/DialComm-1.11.0.apk",
+    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/android-1.11.0",
+    "notes": "File → View ANSI Art…\nShows the SAUCE details\n◀ ▶\nPlay\nZoom\nIn art-file mode the bell, form feed and vertical tab characters…\nSetup → Transfer Protocol → Capture as\nxterm"
   }
 }
