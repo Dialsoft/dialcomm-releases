@@ -5,6 +5,16 @@ The Windows and Android versions share one terminal engine, so their version num
 
 ---
 
+## Windows and Mac 1.9.2 – November 8, 2026
+
+**New: DialComm for Mac**
+- DialComm now runs on Macs: one download (DialComm-1.9.2-Mac.dmg) that runs natively on both Apple Silicon (M1 and later) and Intel Macs, macOS 12 or later. Everything the Windows version does, the Mac version does: the same ribbon, tabs, Connection Directory, emulations, file transfers, scripts, ANSI Art Viewer and updates.
+- A proper Mac menu bar: DialComm → About / Hide / Quit (⌘Q); File → New Tab (⌘T), Close Tab (⌘W), Quick Dial (⇧⌘Q), Connection Directory (⇧⌘D); Edit → Copy (⌘C copies the text selected on the screen), Paste (⌘V types the clipboard to the BBS), Select All. In text boxes these work on the text as usual. Every Ctrl+Shift shortcut also works as ⌘+Shift; plain Ctrl+letter still goes to the BBS, as a terminal should.
+- **Check for Updates** on a Mac downloads the new disk image to your Downloads folder and opens it: drag DialComm onto Applications and choose Replace.
+- Serial ports for real modems show their Mac names (/dev/cu.usbserial…).
+- **First start:** DialComm isn't signed by Apple yet (that needs a paid Apple Developer membership), so the first time, macOS says it can't check it. Click *Done*, then open **System Settings → Privacy & Security**, scroll down, click **Open Anyway** next to DialComm and confirm. Only once.
+- Built and checked on a Mac by the publishing process: both processor types are in the app, its (ad-hoc) signature checks out, and it starts and shows its window.
+
 ## Windows 1.9.1 – November 4, 2026
 
 **New: Quick Dial**

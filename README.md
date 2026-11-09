@@ -1,6 +1,6 @@
 # DialComm Terminal
 
-**A BBS terminal for Windows and Android, by Dialsoft LLC.**
+**A BBS terminal for Windows, Mac and Android, by Dialsoft LLC.**
 
 DialComm calls the bulletin board systems still running today over the internet (Telnet, SSH, RLogin, WebSocket) or a real modem, and shows them the way they were meant to look.
 
@@ -17,11 +17,14 @@ DialComm calls the bulletin board systems still running today over the internet 
 
 | | Version | File |
 |---|---|---|
-| **Windows** (10 and 11): installer, recommended | 1.9.1 | [DialComm-1.9.1-Setup.exe](https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.1/DialComm-1.9.1-Setup.exe) |
-| **Windows**: portable, no install (for USB sticks; slower to start) | 1.9.1 | [DialComm-1.9.1-Portable.exe](https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.1/DialComm-1.9.1-Portable.exe) |
+| **Windows** (10 and 11): installer, recommended | 1.9.2 | [DialComm-1.9.2-Setup.exe](https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.2/DialComm-1.9.2-Setup.exe) |
+| **Windows**: portable, no install (for USB sticks; slower to start) | 1.9.2 | [DialComm-1.9.2-Portable.exe](https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.2/DialComm-1.9.2-Portable.exe) |
+| **Mac** (macOS 12 or later; Apple Silicon and Intel) | 1.9.2 | [DialComm-1.9.2-Mac.dmg](https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.2/DialComm-1.9.2-Mac.dmg) |
 | **Android** | 1.11.0 | [DialComm-1.11.0.apk](https://github.com/Dialsoft/dialcomm-releases/releases/download/android-1.11.0/DialComm-1.11.0.apk) |
 
 **Windows:** download the **Setup** file and run it. It installs DialComm for you (no administrator rights needed), adds Start menu and desktop shortcuts, and opens it; after that DialComm starts in a second or two. The **portable** file needs no installing and runs from anywhere, such as a USB stick, but it unpacks itself each time, so it takes 15–20 seconds to open. Windows may warn that it doesn't recognise the program; click *More info* → *Run anyway*.
+
+**Mac:** open the .dmg and drag DialComm onto the Applications folder. DialComm isn't signed by Apple yet, so the first time you open it macOS says it can't check it: click *Done* (or *OK*), then go to **System Settings → Privacy & Security**, scroll down and click **Open Anyway** next to DialComm, and confirm. You only do this once; updates DialComm downloads itself open straight away.
 
 **Android:** open the .apk on your phone. Android asks you to allow installs from your browser the first time.
 
