@@ -5,6 +5,17 @@ The Windows and Android versions share one terminal engine, so their version num
 
 ---
 
+## Windows, Mac and Linux 1.9.3 – November 8, 2026
+
+**New: DialComm for Linux**
+- Two downloads for 64-bit Linux PCs: an **AppImage** (one file that runs on any Linux: make it runnable and double-click it) and a **.deb package** for Ubuntu, Debian, Mint, Pop!_OS and the like, which installs DialComm into your applications menu.
+- The same program as on Windows and Mac: ribbon, tabs, Connection Directory, every emulation, file transfers, scripts, the ANSI Art Viewer, Quick Dial and updates.
+- **Check for Updates** on Linux: the AppImage downloads the new AppImage beside itself and starts it in its place; the .deb version downloads the new .deb and opens it in your software installer.
+- Real modems and serial ports work as on Windows; Linux needs you in the *dialout* group once (`sudo usermod -aG dialout $USER`, then log out and back in).
+- Tested on Ubuntu 24.04: the AppImage runs and the .deb installs and starts, as an ordinary (non-administrator) user.
+
+**ANSI accuracy, now on every platform:** DialComm's ANSI drawing was tested against the entire 16colo.rs ANSI art archive (57,110 comparable files from 1990 to today): 96.0% are drawn pixel-for-pixel identical to the reference and 99.43% of all characters exactly right, 99.8% in the ANSI Art Viewer. Windows, Mac, Linux and Android all use the same drawing engine.
+
 ## Windows and Mac 1.9.2 – November 8, 2026
 
 **New: DialComm for Mac**

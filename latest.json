@@ -1,26 +1,35 @@
 {
   "page": "https://github.com/Dialsoft/dialcomm-releases",
   "windows": {
-    "version": "1.9.2",
-    "file": "DialComm-1.9.2-Setup.exe",
-    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.2/DialComm-1.9.2-Setup.exe",
-    "portableFile": "DialComm-1.9.2-Portable.exe",
-    "portableUrl": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.2/DialComm-1.9.2-Portable.exe",
-    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/windows-1.9.2",
-    "notes": "DialComm now runs on Macs\nA proper Mac menu bar\nCheck for Updates\nSerial ports for real modems show their Mac names\nFirst start\nBuilt and checked on a Mac by the publishing process"
+    "version": "1.9.3",
+    "file": "DialComm-1.9.3-Setup.exe",
+    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.3/DialComm-1.9.3-Setup.exe",
+    "portableFile": "DialComm-1.9.3-Portable.exe",
+    "portableUrl": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.3/DialComm-1.9.3-Portable.exe",
+    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/windows-1.9.3",
+    "notes": "Two downloads for 64-bit Linux PCs\nThe same program as on Windows and Mac\nCheck for Updates\nReal modems and serial ports work as on Windows; Linux needs you in…\nTested on Ubuntu 24.04"
   },
   "mac": {
-    "version": "1.9.2",
-    "file": "DialComm-1.9.2-Mac.dmg",
-    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.2/DialComm-1.9.2-Mac.dmg",
-    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/windows-1.9.2",
-    "notes": "DialComm now runs on Macs\nA proper Mac menu bar\nCheck for Updates\nSerial ports for real modems show their Mac names\nFirst start\nBuilt and checked on a Mac by the publishing process"
+    "version": "1.9.3",
+    "file": "DialComm-1.9.3-Mac.dmg",
+    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.3/DialComm-1.9.3-Mac.dmg",
+    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/windows-1.9.3",
+    "notes": "Two downloads for 64-bit Linux PCs\nThe same program as on Windows and Mac\nCheck for Updates\nReal modems and serial ports work as on Windows; Linux needs you in…\nTested on Ubuntu 24.04"
+  },
+  "linux": {
+    "version": "1.9.3",
+    "file": "DialComm-1.9.3-Linux.AppImage",
+    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.3/DialComm-1.9.3-Linux.AppImage",
+    "debFile": "DialComm-1.9.3-Linux-amd64.deb",
+    "debUrl": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.3/DialComm-1.9.3-Linux-amd64.deb",
+    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/windows-1.9.3",
+    "notes": "Two downloads for 64-bit Linux PCs\nThe same program as on Windows and Mac\nCheck for Updates\nReal modems and serial ports work as on Windows; Linux needs you in…\nTested on Ubuntu 24.04"
   },
   "android": {
     "version": "1.11.0",
     "file": "DialComm-1.11.0.apk",
     "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/android-1.11.0/DialComm-1.11.0.apk",
     "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/android-1.11.0",
-    "notes": "DialComm now runs on Macs\nA proper Mac menu bar\nCheck for Updates\nSerial ports for real modems show their Mac names\nFirst start\nBuilt and checked on a Mac by the publishing process"
+    "notes": "Two downloads for 64-bit Linux PCs\nThe same program as on Windows and Mac\nCheck for Updates\nReal modems and serial ports work as on Windows; Linux needs you in…\nTested on Ubuntu 24.04"
   }
 }
