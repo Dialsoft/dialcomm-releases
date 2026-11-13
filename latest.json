@@ -10,11 +10,11 @@
     "notes": "9-dot art\nPabloDraw 24-bit colors\nANSI Art Viewer\nWhat's left is mostly art the reference viewer itself draws wrong…"
   },
   "mac": {
-    "version": "1.9.3",
-    "file": "DialComm-1.9.3-Mac.dmg",
-    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.3/DialComm-1.9.3-Mac.dmg",
-    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/windows-1.9.3",
-    "notes": "Two downloads for 64-bit Linux PCs\nThe same program as on Windows and Mac\nCheck for Updates\nReal modems and serial ports work as on Windows; Linux needs you in…\nTested on Ubuntu 24.04"
+    "version": "1.9.4",
+    "file": "DialComm-1.9.4-Mac.dmg",
+    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.4/DialComm-1.9.4-Mac.dmg",
+    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/windows-1.9.4",
+    "notes": "9-dot art\nPabloDraw 24-bit colors\nANSI Art Viewer\nWhat's left is mostly art the reference viewer itself draws wrong…"
   },
   "linux": {
     "version": "1.9.4",

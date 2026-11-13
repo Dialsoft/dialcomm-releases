@@ -23,7 +23,7 @@ DialComm calls the bulletin board systems still running today over the internet 
 |---|---|---|
 | **Windows** (10 and 11): installer, recommended | 1.9.4 | [DialComm-1.9.4-Setup.exe](https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.4/DialComm-1.9.4-Setup.exe) |
 | **Windows**: portable, no install (for USB sticks; slower to start) | 1.9.4 | [DialComm-1.9.4-Portable.exe](https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.4/DialComm-1.9.4-Portable.exe) |
-| **Mac** (macOS 12 or later; Apple Silicon and Intel) | 1.9.3 | [DialComm-1.9.3-Mac.dmg](https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.3/DialComm-1.9.3-Mac.dmg) |
+| **Mac** (macOS 12 or later; Apple Silicon and Intel) | 1.9.4 | [DialComm-1.9.4-Mac.dmg](https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.4/DialComm-1.9.4-Mac.dmg) |
 | **Linux** (64-bit PC): AppImage, runs on any Linux | 1.9.4 | [DialComm-1.9.4-Linux.AppImage](https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.4/DialComm-1.9.4-Linux.AppImage) |
 | **Linux**: .deb package for Ubuntu, Debian, Mint, Pop!_OS... | 1.9.4 | [DialComm-1.9.4-Linux-amd64.deb](https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.4/DialComm-1.9.4-Linux-amd64.deb) |
 | **Android** | 1.11.1 | [DialComm-1.11.1.apk](https://github.com/Dialsoft/dialcomm-releases/releases/download/android-1.11.1/DialComm-1.11.1.apk) |
