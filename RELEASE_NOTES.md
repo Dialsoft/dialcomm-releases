@@ -5,6 +5,24 @@ The Windows and Android versions share one terminal engine, so their version num
 
 ---
 
+## Windows, Mac and Linux 1.9.4 / Android 1.11.1 – November 13, 2026
+
+**ANSI accuracy: 99.6% pixel-perfect**
+DialComm was re-tested against the entire 16colo.rs ANSI art archive (57,110 comparable files, 1990 to today), compared pixel by pixel with the reference picture of each file:
+
+| | Before (1.9.3) | Now |
+|---|---|---|
+| ANSI Art Viewer: files pixel-perfect | 96.7% | **99.6%** |
+| ANSI Art Viewer: characters identical | 99.79% | **99.84%** |
+| Terminal screen: files pixel-perfect | 96.0% | **98.7%** |
+| Art from 2010 on (viewer) | 76.7% | **98.5%** |
+
+What changed:
+- **9-dot art** (art drawn for the VGA's 720-pixel text mode) is shown with the same character shapes that PabloDraw, ansilove and 16colo.rs use, in a 9-dot cell with line drawings joined across the gap. DialComm used IBM's hardware-redrawn shapes for 47 characters (■, m, w, f and others), which art tools never showed. Both are in Setup's font list: "IBM VGA 9x16 (as ANSI art viewers show it)" and "IBM VGA 9x16 (true VGA text mode)".
+- **PabloDraw 24-bit colors** (ESC[1;r;g;bt) now give way to bold and blink the way PabloDraw writes its files, so "now bright white" after a 24-bit color comes out right (BBSes and the art viewer).
+- **ANSI Art Viewer:** carriage returns and line erases are ignored and NUL and backspace are drawn as characters, as art viewers do; ANSI music codes in art files show as text, as in art viewers.
+- What's left is mostly art the reference viewer itself draws wrong (256-color art, the "bright" color codes 90-97 and the iCE-color switch ESC[?33h, which DialComm draws correctly), plus a handful of 1990 files with unusual cursor tricks.
+
 ## Windows, Mac and Linux 1.9.3 – November 8, 2026
 
 **New: DialComm for Linux**

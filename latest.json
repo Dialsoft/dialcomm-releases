@@ -1,13 +1,13 @@
 {
   "page": "https://github.com/Dialsoft/dialcomm-releases",
   "windows": {
-    "version": "1.9.3",
-    "file": "DialComm-1.9.3-Setup.exe",
-    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.3/DialComm-1.9.3-Setup.exe",
-    "portableFile": "DialComm-1.9.3-Portable.exe",
-    "portableUrl": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.3/DialComm-1.9.3-Portable.exe",
-    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/windows-1.9.3",
-    "notes": "Two downloads for 64-bit Linux PCs\nThe same program as on Windows and Mac\nCheck for Updates\nReal modems and serial ports work as on Windows; Linux needs you in…\nTested on Ubuntu 24.04"
+    "version": "1.9.4",
+    "file": "DialComm-1.9.4-Setup.exe",
+    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.4/DialComm-1.9.4-Setup.exe",
+    "portableFile": "DialComm-1.9.4-Portable.exe",
+    "portableUrl": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.4/DialComm-1.9.4-Portable.exe",
+    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/windows-1.9.4",
+    "notes": "9-dot art\nPabloDraw 24-bit colors\nANSI Art Viewer\nWhat's left is mostly art the reference viewer itself draws wrong…"
   },
   "mac": {
     "version": "1.9.3",
@@ -17,19 +17,19 @@
     "notes": "Two downloads for 64-bit Linux PCs\nThe same program as on Windows and Mac\nCheck for Updates\nReal modems and serial ports work as on Windows; Linux needs you in…\nTested on Ubuntu 24.04"
   },
   "linux": {
-    "version": "1.9.3",
-    "file": "DialComm-1.9.3-Linux.AppImage",
-    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.3/DialComm-1.9.3-Linux.AppImage",
-    "debFile": "DialComm-1.9.3-Linux-amd64.deb",
-    "debUrl": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.3/DialComm-1.9.3-Linux-amd64.deb",
-    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/windows-1.9.3",
-    "notes": "Two downloads for 64-bit Linux PCs\nThe same program as on Windows and Mac\nCheck for Updates\nReal modems and serial ports work as on Windows; Linux needs you in…\nTested on Ubuntu 24.04"
+    "version": "1.9.4",
+    "file": "DialComm-1.9.4-Linux.AppImage",
+    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.4/DialComm-1.9.4-Linux.AppImage",
+    "debFile": "DialComm-1.9.4-Linux-amd64.deb",
+    "debUrl": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.4/DialComm-1.9.4-Linux-amd64.deb",
+    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/windows-1.9.4",
+    "notes": "9-dot art\nPabloDraw 24-bit colors\nANSI Art Viewer\nWhat's left is mostly art the reference viewer itself draws wrong…"
   },
   "android": {
-    "version": "1.11.0",
-    "file": "DialComm-1.11.0.apk",
-    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/android-1.11.0/DialComm-1.11.0.apk",
-    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/android-1.11.0",
-    "notes": "Two downloads for 64-bit Linux PCs\nThe same program as on Windows and Mac\nCheck for Updates\nReal modems and serial ports work as on Windows; Linux needs you in…\nTested on Ubuntu 24.04"
+    "version": "1.11.1",
+    "file": "DialComm-1.11.1.apk",
+    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/android-1.11.1/DialComm-1.11.1.apk",
+    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/android-1.11.1",
+    "notes": "9-dot art\nPabloDraw 24-bit colors\nANSI Art Viewer\nWhat's left is mostly art the reference viewer itself draws wrong…"
   }
 }

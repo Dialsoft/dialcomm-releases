@@ -4,7 +4,7 @@
 
 DialComm calls the bulletin board systems still running today over the internet (Telnet, SSH, RLogin, WebSocket) or a real modem, and shows them the way they were meant to look.
 
-- **ANSI accuracy you can measure:** tested against the entire 16colo.rs ANSI art archive (57,110 files), DialComm draws 96% of them pixel-for-pixel identical to the reference and 99.4% of all characters exactly right (99.8% in its ANSI Art Viewer)
+- **ANSI accuracy you can measure:** tested against the entire 16colo.rs ANSI art archive (57,110 files), DialComm's ANSI Art Viewer draws **99.6%** of them pixel-for-pixel identical to the reference (99.8% of all characters), and its terminal screen 98.7%
 - ANSI art with 256-colour and true colour, iCE colours and the classic PC fonts
 - An ANSI Art Viewer for .ANS, .ICE, .BIN, .XB, .ADF, .IDF, .TND and more, with modem-speed playback
 - RIPscrip graphics, PETSCII (Commodore 64), ATASCII (Atari), Viewdata, BBC Mode 7 and Atari ST
@@ -21,12 +21,12 @@ DialComm calls the bulletin board systems still running today over the internet 
 
 | | Version | File |
 |---|---|---|
-| **Windows** (10 and 11): installer, recommended | 1.9.3 | [DialComm-1.9.3-Setup.exe](https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.3/DialComm-1.9.3-Setup.exe) |
-| **Windows**: portable, no install (for USB sticks; slower to start) | 1.9.3 | [DialComm-1.9.3-Portable.exe](https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.3/DialComm-1.9.3-Portable.exe) |
+| **Windows** (10 and 11): installer, recommended | 1.9.4 | [DialComm-1.9.4-Setup.exe](https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.4/DialComm-1.9.4-Setup.exe) |
+| **Windows**: portable, no install (for USB sticks; slower to start) | 1.9.4 | [DialComm-1.9.4-Portable.exe](https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.4/DialComm-1.9.4-Portable.exe) |
 | **Mac** (macOS 12 or later; Apple Silicon and Intel) | 1.9.3 | [DialComm-1.9.3-Mac.dmg](https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.3/DialComm-1.9.3-Mac.dmg) |
-| **Linux** (64-bit PC): AppImage, runs on any Linux | 1.9.3 | [DialComm-1.9.3-Linux.AppImage](https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.3/DialComm-1.9.3-Linux.AppImage) |
-| **Linux**: .deb package for Ubuntu, Debian, Mint, Pop!_OS... | 1.9.3 | [DialComm-1.9.3-Linux-amd64.deb](https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.3/DialComm-1.9.3-Linux-amd64.deb) |
-| **Android** | 1.11.0 | [DialComm-1.11.0.apk](https://github.com/Dialsoft/dialcomm-releases/releases/download/android-1.11.0/DialComm-1.11.0.apk) |
+| **Linux** (64-bit PC): AppImage, runs on any Linux | 1.9.4 | [DialComm-1.9.4-Linux.AppImage](https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.4/DialComm-1.9.4-Linux.AppImage) |
+| **Linux**: .deb package for Ubuntu, Debian, Mint, Pop!_OS... | 1.9.4 | [DialComm-1.9.4-Linux-amd64.deb](https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.4/DialComm-1.9.4-Linux-amd64.deb) |
+| **Android** | 1.11.1 | [DialComm-1.11.1.apk](https://github.com/Dialsoft/dialcomm-releases/releases/download/android-1.11.1/DialComm-1.11.1.apk) |
 
 **Windows:** download the **Setup** file and run it. It installs DialComm for you (no administrator rights needed), adds Start menu and desktop shortcuts, and opens it; after that DialComm starts in a second or two. The **portable** file needs no installing and runs from anywhere, such as a USB stick, but it unpacks itself each time, so it takes 15–20 seconds to open. Windows may warn that it doesn't recognise the program; click *More info* → *Run anyway*.
 
