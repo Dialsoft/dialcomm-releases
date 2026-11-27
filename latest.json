@@ -1,35 +1,35 @@
 {
   "page": "https://github.com/Dialsoft/dialcomm-releases",
   "windows": {
-    "version": "1.9.9",
-    "file": "DialComm-1.9.9-Setup.exe",
-    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.9/DialComm-1.9.9-Setup.exe",
-    "portableFile": "DialComm-1.9.9-Portable.exe",
-    "portableUrl": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.9/DialComm-1.9.9-Portable.exe",
-    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/windows-1.9.9",
-    "notes": "RipscoutBBS\nExisting installs get it too\nIts entry is set to the RIPscrip emulation, so its graphics show…"
+    "version": "1.9.10",
+    "file": "DialComm-1.9.10-Setup.exe",
+    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.10/DialComm-1.9.10-Setup.exe",
+    "portableFile": "DialComm-1.9.10-Portable.exe",
+    "portableUrl": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.10/DialComm-1.9.10-Portable.exe",
+    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/windows-1.9.10",
+    "notes": "When you call a BBS from the Connection Directory, Rapid Connect or…"
   },
   "mac": {
-    "version": "1.9.9",
-    "file": "DialComm-1.9.9-Mac.dmg",
-    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.9/DialComm-1.9.9-Mac.dmg",
-    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/windows-1.9.9",
-    "notes": "RipscoutBBS\nExisting installs get it too\nIts entry is set to the RIPscrip emulation, so its graphics show…"
+    "version": "1.9.10",
+    "file": "DialComm-1.9.10-Mac.dmg",
+    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.10/DialComm-1.9.10-Mac.dmg",
+    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/windows-1.9.10",
+    "notes": "When you call a BBS from the Connection Directory, Rapid Connect or…"
   },
   "linux": {
-    "version": "1.9.9",
-    "file": "DialComm-1.9.9-Linux.AppImage",
-    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.9/DialComm-1.9.9-Linux.AppImage",
-    "debFile": "DialComm-1.9.9-Linux-amd64.deb",
-    "debUrl": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.9/DialComm-1.9.9-Linux-amd64.deb",
-    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/windows-1.9.9",
-    "notes": "RipscoutBBS\nExisting installs get it too\nIts entry is set to the RIPscrip emulation, so its graphics show…"
+    "version": "1.9.10",
+    "file": "DialComm-1.9.10-Linux.AppImage",
+    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.10/DialComm-1.9.10-Linux.AppImage",
+    "debFile": "DialComm-1.9.10-Linux-amd64.deb",
+    "debUrl": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.10/DialComm-1.9.10-Linux-amd64.deb",
+    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/windows-1.9.10",
+    "notes": "When you call a BBS from the Connection Directory, Rapid Connect or…"
   },
   "android": {
-    "version": "1.11.6",
-    "file": "DialComm-1.11.6.apk",
-    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/android-1.11.6/DialComm-1.11.6.apk",
-    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/android-1.11.6",
-    "notes": "RipscoutBBS\nExisting installs get it too\nIts entry is set to the RIPscrip emulation, so its graphics show…"
+    "version": "1.11.7",
+    "file": "DialComm-1.11.7.apk",
+    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/android-1.11.7/DialComm-1.11.7.apk",
+    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/android-1.11.7",
+    "notes": "When you call a BBS from the Connection Directory, Rapid Connect or…"
   }
 }

@@ -5,6 +5,13 @@ The Windows and Android versions share one terminal engine, so their version num
 
 ---
 
+## Windows, Mac and Linux 1.9.10 / Android 1.11.7 – November 27, 2026
+
+**A Directory entry's emulation is used from the first byte**
+- When you call a BBS from the Connection Directory, Rapid Connect or the Connect button, the emulation set in that entry (RIPscrip, PETSCII, VT-100...) now takes effect as the call starts. Before, it only switched on after the next settings change, so a board like **RipscoutBBS** said your terminal "did not answer the RIPscrip check" and offered a text screen instead of its graphics. Now RipscoutBBS's graphical welcome screen comes up straight away.
+
+---
+
 ## Windows, Mac and Linux 1.9.9 / Android 1.11.6 – November 27, 2026
 
 **RipscoutBBS is DialComm's default BBS**
