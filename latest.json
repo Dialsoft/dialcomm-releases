@@ -1,35 +1,35 @@
 {
   "page": "https://github.com/Dialsoft/dialcomm-releases",
   "windows": {
-    "version": "1.9.4",
-    "file": "DialComm-1.9.4-Setup.exe",
-    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.4/DialComm-1.9.4-Setup.exe",
-    "portableFile": "DialComm-1.9.4-Portable.exe",
-    "portableUrl": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.4/DialComm-1.9.4-Portable.exe",
-    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/windows-1.9.4",
-    "notes": "9-dot art\nPabloDraw 24-bit colors\nANSI Art Viewer\nWhat's left is mostly art the reference viewer itself draws wrong…"
+    "version": "1.9.5",
+    "file": "DialComm-1.9.5-Setup.exe",
+    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.5/DialComm-1.9.5-Setup.exe",
+    "portableFile": "DialComm-1.9.5-Portable.exe",
+    "portableUrl": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.5/DialComm-1.9.5-Portable.exe",
+    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/windows-1.9.5",
+    "notes": "Dragging works on boards that use \"click here, then click there\"\nReal RIPscrip sound effects\nThey follow the Bell setting\nEffects play at once and never wait behind ANSI music, so a BBS…\nTry them on RipscoutBBS"
   },
   "mac": {
-    "version": "1.9.4",
-    "file": "DialComm-1.9.4-Mac.dmg",
-    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.4/DialComm-1.9.4-Mac.dmg",
-    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/windows-1.9.4",
-    "notes": "9-dot art\nPabloDraw 24-bit colors\nANSI Art Viewer\nWhat's left is mostly art the reference viewer itself draws wrong…"
+    "version": "1.9.5",
+    "file": "DialComm-1.9.5-Mac.dmg",
+    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.5/DialComm-1.9.5-Mac.dmg",
+    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/windows-1.9.5",
+    "notes": "Dragging works on boards that use \"click here, then click there\"\nReal RIPscrip sound effects\nThey follow the Bell setting\nEffects play at once and never wait behind ANSI music, so a BBS…\nTry them on RipscoutBBS"
   },
   "linux": {
-    "version": "1.9.4",
-    "file": "DialComm-1.9.4-Linux.AppImage",
-    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.4/DialComm-1.9.4-Linux.AppImage",
-    "debFile": "DialComm-1.9.4-Linux-amd64.deb",
-    "debUrl": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.4/DialComm-1.9.4-Linux-amd64.deb",
-    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/windows-1.9.4",
-    "notes": "9-dot art\nPabloDraw 24-bit colors\nANSI Art Viewer\nWhat's left is mostly art the reference viewer itself draws wrong…"
+    "version": "1.9.5",
+    "file": "DialComm-1.9.5-Linux.AppImage",
+    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.5/DialComm-1.9.5-Linux.AppImage",
+    "debFile": "DialComm-1.9.5-Linux-amd64.deb",
+    "debUrl": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.5/DialComm-1.9.5-Linux-amd64.deb",
+    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/windows-1.9.5",
+    "notes": "Dragging works on boards that use \"click here, then click there\"\nReal RIPscrip sound effects\nThey follow the Bell setting\nEffects play at once and never wait behind ANSI music, so a BBS…\nTry them on RipscoutBBS"
   },
   "android": {
-    "version": "1.11.1",
-    "file": "DialComm-1.11.1.apk",
-    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/android-1.11.1/DialComm-1.11.1.apk",
-    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/android-1.11.1",
-    "notes": "9-dot art\nPabloDraw 24-bit colors\nANSI Art Viewer\nWhat's left is mostly art the reference viewer itself draws wrong…"
+    "version": "1.11.2",
+    "file": "DialComm-1.11.2.apk",
+    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/android-1.11.2/DialComm-1.11.2.apk",
+    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/android-1.11.2",
+    "notes": "Dragging works on boards that use \"click here, then click there\"\nReal RIPscrip sound effects\nThey follow the Bell setting\nEffects play at once and never wait behind ANSI music, so a BBS…\nTry them on RipscoutBBS"
   }
 }

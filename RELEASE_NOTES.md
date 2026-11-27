@@ -5,6 +5,17 @@ The Windows and Android versions share one terminal engine, so their version num
 
 ---
 
+## Windows, Mac and Linux 1.9.5 / Android 1.11.2 – November 26, 2026
+
+**Drag and drop in RIP games**
+- **Dragging works on boards that use "click here, then click there".** Press on something, drag it and let go: DialComm counts that as a click where you pressed and a click where you let go. So in a RIP Solitaire you can drag a card onto a pile, like in Windows Solitaire. A plain click works exactly as before, and no new RIP commands are involved, so every board keeps working.
+
+**RIPscrip sound effects**
+- **Real RIPscrip sound effects:** the six sounds built into RIPscrip 1.54 ($BEEP$, $BLIP$, $ALARM$, $PHASER$, $REVPHASER$ and $MUSIC$) each make their own sound now, as they did in RIPterm. There's a beep, a tick, a two-tone alarm, a falling and a rising "phaser" zap, and a little tune. Before, every one of them rang the plain bell.
+- They follow the **Bell** setting: Beep plays the effect, Flash the screen flashes instead, and Silent keeps quiet.
+- Effects play at once and never wait behind ANSI music, so a BBS game can zap while its theme tune plays.
+- Try them on RipscoutBBS: RIP Showcase, page 8 (Sound).
+
 ## Windows, Mac and Linux 1.9.4 / Android 1.11.1 – November 13, 2026
 
 **ANSI accuracy: 99.6% pixel-perfect**
