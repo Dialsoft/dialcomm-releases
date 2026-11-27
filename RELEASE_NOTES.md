@@ -5,6 +5,15 @@ The Windows and Android versions share one terminal engine, so their version num
 
 ---
 
+## Windows, Mac and Linux 1.9.11 / Android 1.11.8 – November 27, 2026
+
+**Copy and Paste work again**
+- **Paste was doing nothing at all** on Windows, Mac and Linux: Ctrl+V, Ctrl+Shift+V, Shift+Insert, the right-click menu and the ribbon's Paste button. Copy, Copy Link Address, the Share dialog's copy buttons and scripts that use the clipboard were failing silently too. The cause: the newer Electron that DialComm is built on (version 45) moved the clipboard out of DialComm's window and changed how it works. DialComm now reaches the clipboard the new way.
+- Tested by logging in to a RipScout BBS with the user name and password pasted with Ctrl+V, and by copying a RIP screen (its text and picture both land on the clipboard).
+- Android was not affected; it uses the phone's own clipboard.
+
+---
+
 ## Windows, Mac and Linux 1.9.10 / Android 1.11.7 – November 27, 2026
 
 **A Directory entry's emulation is used from the first byte**
