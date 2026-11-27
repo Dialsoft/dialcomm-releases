@@ -5,6 +5,14 @@ The Windows and Android versions share one terminal engine, so their version num
 
 ---
 
+## Windows, Mac and Linux 1.9.7 / Android 1.11.4 – November 27, 2026
+
+**Copy text and pictures out of RIPscrip screens**
+- **Copy from a RIP screen:** a RIP screen is a picture, but DialComm now remembers the text the BBS draws on it. **Copy** (Ctrl+Shift+C, the ribbon's Copy button or the right-click menu) puts the screen's text *and* a picture of it on the clipboard together. Paste into Notepad or an email and you get the text; paste into Paint or Word and you get the picture.
+- **Copy just part:** hold **Shift** and drag over the screen to outline an area. Its text and picture are copied as soon as you let go.
+- **Select Screen** on a RIP screen copies the whole thing.
+- **Paste works as always:** Paste (Ctrl+Shift+V, Shift+Insert or right-click) types the clipboard to the BBS on RIP screens too, line by line, for example into a message you're writing.
+
 ## Windows, Mac and Linux 1.9.6 / Android 1.11.3 – November 27, 2026
 
 **Animated drag and drop in RIP games**

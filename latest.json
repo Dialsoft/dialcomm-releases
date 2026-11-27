@@ -1,35 +1,35 @@
 {
   "page": "https://github.com/Dialsoft/dialcomm-releases",
   "windows": {
-    "version": "1.9.6",
-    "file": "DialComm-1.9.6-Setup.exe",
-    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.6/DialComm-1.9.6-Setup.exe",
-    "portableFile": "DialComm-1.9.6-Portable.exe",
-    "portableUrl": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.6/DialComm-1.9.6-Portable.exe",
-    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/windows-1.9.6",
-    "notes": "Cards follow your mouse\nGrayed drop targets\nSame moves as before\nFor BBS authors"
+    "version": "1.9.7",
+    "file": "DialComm-1.9.7-Setup.exe",
+    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.7/DialComm-1.9.7-Setup.exe",
+    "portableFile": "DialComm-1.9.7-Portable.exe",
+    "portableUrl": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.7/DialComm-1.9.7-Portable.exe",
+    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/windows-1.9.7",
+    "notes": "Copy from a RIP screen\nCopy just part\nSelect Screen\nPaste works as always"
   },
   "mac": {
-    "version": "1.9.6",
-    "file": "DialComm-1.9.6-Mac.dmg",
-    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.6/DialComm-1.9.6-Mac.dmg",
-    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/windows-1.9.6",
-    "notes": "Cards follow your mouse\nGrayed drop targets\nSame moves as before\nFor BBS authors"
+    "version": "1.9.7",
+    "file": "DialComm-1.9.7-Mac.dmg",
+    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.7/DialComm-1.9.7-Mac.dmg",
+    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/windows-1.9.7",
+    "notes": "Copy from a RIP screen\nCopy just part\nSelect Screen\nPaste works as always"
   },
   "linux": {
-    "version": "1.9.6",
-    "file": "DialComm-1.9.6-Linux.AppImage",
-    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.6/DialComm-1.9.6-Linux.AppImage",
-    "debFile": "DialComm-1.9.6-Linux-amd64.deb",
-    "debUrl": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.6/DialComm-1.9.6-Linux-amd64.deb",
-    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/windows-1.9.6",
-    "notes": "Cards follow your mouse\nGrayed drop targets\nSame moves as before\nFor BBS authors"
+    "version": "1.9.7",
+    "file": "DialComm-1.9.7-Linux.AppImage",
+    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.7/DialComm-1.9.7-Linux.AppImage",
+    "debFile": "DialComm-1.9.7-Linux-amd64.deb",
+    "debUrl": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.7/DialComm-1.9.7-Linux-amd64.deb",
+    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/windows-1.9.7",
+    "notes": "Copy from a RIP screen\nCopy just part\nSelect Screen\nPaste works as always"
   },
   "android": {
-    "version": "1.11.3",
-    "file": "DialComm-1.11.3.apk",
-    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/android-1.11.3/DialComm-1.11.3.apk",
-    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/android-1.11.3",
-    "notes": "Cards follow your mouse\nGrayed drop targets\nSame moves as before\nFor BBS authors"
+    "version": "1.11.4",
+    "file": "DialComm-1.11.4.apk",
+    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/android-1.11.4/DialComm-1.11.4.apk",
+    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/android-1.11.4",
+    "notes": "Copy from a RIP screen\nCopy just part\nSelect Screen\nPaste works as always"
   }
 }
