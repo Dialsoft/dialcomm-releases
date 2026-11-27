@@ -1,7 +1,22 @@
 # DialComm Terminal – Release Notes
 
-DialComm is a BBS terminal for Windows and Android, published by **Dialsoft LLC** (Marc Frega, Wharton, NJ) and developed with Claude, the AI from Anthropic.
+DialComm is a BBS terminal for Windows, Mac, Linux and Android, published by **Dialsoft LLC** (Marc Frega, Wharton, NJ) and developed with Claude, the AI from Anthropic.
 The Windows and Android versions share one terminal engine, so their version numbers run side by side (Windows 1.7.0 = Android 1.9.0).
+
+---
+
+## Windows, Mac and Linux 1.9.9 / Android 1.11.6 – November 27, 2026
+
+**RipscoutBBS is DialComm's default BBS**
+- **RipscoutBBS** (ripscoutbbs.com), Dialsoft's own all-RIPscrip board, is now at the top of the Connection Directory and is the BBS Rapid Connect offers when DialComm starts: click **Connect** and you're there, in RIPscrip, with point-and-click graphics menus, games, sound and drag and drop.
+- **Existing installs get it too** when they update: it's added once at the top of your directory (on Windows, Mac, Linux and Android) and picked in Rapid Connect. Nothing else in your directory changes; if you already had it, your entry is kept and just moved to the top.
+- Its entry is set to the RIPscrip emulation, so its graphics show straight away.
+
+## Windows, Mac and Linux 1.9.8 / Android 1.11.5 – November 27, 2026
+
+**Ctrl+V pastes on RIPscrip screens**
+- On a RIP screen, plain **Ctrl+V** now pastes, like every other Windows program. Copy your user name or password from a password manager, and press Ctrl+V when the BBS's login screen asks for it. Before, only Ctrl+Shift+V, Shift+Insert, the right-click menu and the ribbon's Paste button pasted, and plain Ctrl+V was quietly sent to the BBS as a key that did nothing.
+- In plain text (ANSI) mode Ctrl+V still goes to the BBS, because some BBS message editors use it.
 
 ---
 

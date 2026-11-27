@@ -1,35 +1,35 @@
 {
   "page": "https://github.com/Dialsoft/dialcomm-releases",
   "windows": {
-    "version": "1.9.7",
-    "file": "DialComm-1.9.7-Setup.exe",
-    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.7/DialComm-1.9.7-Setup.exe",
-    "portableFile": "DialComm-1.9.7-Portable.exe",
-    "portableUrl": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.7/DialComm-1.9.7-Portable.exe",
-    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/windows-1.9.7",
-    "notes": "Copy from a RIP screen\nCopy just part\nSelect Screen\nPaste works as always"
+    "version": "1.9.9",
+    "file": "DialComm-1.9.9-Setup.exe",
+    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.9/DialComm-1.9.9-Setup.exe",
+    "portableFile": "DialComm-1.9.9-Portable.exe",
+    "portableUrl": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.9/DialComm-1.9.9-Portable.exe",
+    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/windows-1.9.9",
+    "notes": "RipscoutBBS\nExisting installs get it too\nIts entry is set to the RIPscrip emulation, so its graphics show…"
   },
   "mac": {
-    "version": "1.9.7",
-    "file": "DialComm-1.9.7-Mac.dmg",
-    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.7/DialComm-1.9.7-Mac.dmg",
-    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/windows-1.9.7",
-    "notes": "Copy from a RIP screen\nCopy just part\nSelect Screen\nPaste works as always"
+    "version": "1.9.9",
+    "file": "DialComm-1.9.9-Mac.dmg",
+    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.9/DialComm-1.9.9-Mac.dmg",
+    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/windows-1.9.9",
+    "notes": "RipscoutBBS\nExisting installs get it too\nIts entry is set to the RIPscrip emulation, so its graphics show…"
   },
   "linux": {
-    "version": "1.9.7",
-    "file": "DialComm-1.9.7-Linux.AppImage",
-    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.7/DialComm-1.9.7-Linux.AppImage",
-    "debFile": "DialComm-1.9.7-Linux-amd64.deb",
-    "debUrl": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.7/DialComm-1.9.7-Linux-amd64.deb",
-    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/windows-1.9.7",
-    "notes": "Copy from a RIP screen\nCopy just part\nSelect Screen\nPaste works as always"
+    "version": "1.9.9",
+    "file": "DialComm-1.9.9-Linux.AppImage",
+    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.9/DialComm-1.9.9-Linux.AppImage",
+    "debFile": "DialComm-1.9.9-Linux-amd64.deb",
+    "debUrl": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.9/DialComm-1.9.9-Linux-amd64.deb",
+    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/windows-1.9.9",
+    "notes": "RipscoutBBS\nExisting installs get it too\nIts entry is set to the RIPscrip emulation, so its graphics show…"
   },
   "android": {
-    "version": "1.11.4",
-    "file": "DialComm-1.11.4.apk",
-    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/android-1.11.4/DialComm-1.11.4.apk",
-    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/android-1.11.4",
-    "notes": "Copy from a RIP screen\nCopy just part\nSelect Screen\nPaste works as always"
+    "version": "1.11.6",
+    "file": "DialComm-1.11.6.apk",
+    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/android-1.11.6/DialComm-1.11.6.apk",
+    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/android-1.11.6",
+    "notes": "RipscoutBBS\nExisting installs get it too\nIts entry is set to the RIPscrip emulation, so its graphics show…"
   }
 }
