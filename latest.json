@@ -1,35 +1,35 @@
 {
   "page": "https://github.com/Dialsoft/dialcomm-releases",
   "windows": {
-    "version": "1.9.5",
-    "file": "DialComm-1.9.5-Setup.exe",
-    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.5/DialComm-1.9.5-Setup.exe",
-    "portableFile": "DialComm-1.9.5-Portable.exe",
-    "portableUrl": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.5/DialComm-1.9.5-Portable.exe",
-    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/windows-1.9.5",
-    "notes": "Dragging works on boards that use \"click here, then click there\"\nReal RIPscrip sound effects\nThey follow the Bell setting\nEffects play at once and never wait behind ANSI music, so a BBS…\nTry them on RipscoutBBS"
+    "version": "1.9.6",
+    "file": "DialComm-1.9.6-Setup.exe",
+    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.6/DialComm-1.9.6-Setup.exe",
+    "portableFile": "DialComm-1.9.6-Portable.exe",
+    "portableUrl": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.6/DialComm-1.9.6-Portable.exe",
+    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/windows-1.9.6",
+    "notes": "Cards follow your mouse\nGrayed drop targets\nSame moves as before\nFor BBS authors"
   },
   "mac": {
-    "version": "1.9.5",
-    "file": "DialComm-1.9.5-Mac.dmg",
-    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.5/DialComm-1.9.5-Mac.dmg",
-    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/windows-1.9.5",
-    "notes": "Dragging works on boards that use \"click here, then click there\"\nReal RIPscrip sound effects\nThey follow the Bell setting\nEffects play at once and never wait behind ANSI music, so a BBS…\nTry them on RipscoutBBS"
+    "version": "1.9.6",
+    "file": "DialComm-1.9.6-Mac.dmg",
+    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.6/DialComm-1.9.6-Mac.dmg",
+    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/windows-1.9.6",
+    "notes": "Cards follow your mouse\nGrayed drop targets\nSame moves as before\nFor BBS authors"
   },
   "linux": {
-    "version": "1.9.5",
-    "file": "DialComm-1.9.5-Linux.AppImage",
-    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.5/DialComm-1.9.5-Linux.AppImage",
-    "debFile": "DialComm-1.9.5-Linux-amd64.deb",
-    "debUrl": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.5/DialComm-1.9.5-Linux-amd64.deb",
-    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/windows-1.9.5",
-    "notes": "Dragging works on boards that use \"click here, then click there\"\nReal RIPscrip sound effects\nThey follow the Bell setting\nEffects play at once and never wait behind ANSI music, so a BBS…\nTry them on RipscoutBBS"
+    "version": "1.9.6",
+    "file": "DialComm-1.9.6-Linux.AppImage",
+    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.6/DialComm-1.9.6-Linux.AppImage",
+    "debFile": "DialComm-1.9.6-Linux-amd64.deb",
+    "debUrl": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.6/DialComm-1.9.6-Linux-amd64.deb",
+    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/windows-1.9.6",
+    "notes": "Cards follow your mouse\nGrayed drop targets\nSame moves as before\nFor BBS authors"
   },
   "android": {
-    "version": "1.11.2",
-    "file": "DialComm-1.11.2.apk",
-    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/android-1.11.2/DialComm-1.11.2.apk",
-    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/android-1.11.2",
-    "notes": "Dragging works on boards that use \"click here, then click there\"\nReal RIPscrip sound effects\nThey follow the Bell setting\nEffects play at once and never wait behind ANSI music, so a BBS…\nTry them on RipscoutBBS"
+    "version": "1.11.3",
+    "file": "DialComm-1.11.3.apk",
+    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/android-1.11.3/DialComm-1.11.3.apk",
+    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/android-1.11.3",
+    "notes": "Cards follow your mouse\nGrayed drop targets\nSame moves as before\nFor BBS authors"
   }
 }

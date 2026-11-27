@@ -5,6 +5,14 @@ The Windows and Android versions share one terminal engine, so their version num
 
 ---
 
+## Windows, Mac and Linux 1.9.6 / Android 1.11.3 – November 27, 2026
+
+**Animated drag and drop in RIP games**
+- **Cards follow your mouse.** On boards that support it (RipScout's Solitaire, for one), pressing on a card and dragging shows a see-through copy of it, along with any cards on top of it, following the pointer.
+- **Grayed drop targets:** the pile you're hovering over turns gray, so you can see where the card will land.
+- **Same moves as before:** let go and the move happens exactly as before. Boards that don't support it just see ordinary clicks.
+- For BBS authors: three new RIP level-8 commands (8S drag source, 8T drop target, 8K clear). Other RIP terminals skip level-8 commands, so boards can send them to everyone.
+
 ## Windows, Mac and Linux 1.9.5 / Android 1.11.2 – November 26, 2026
 
 **Drag and drop in RIP games**
