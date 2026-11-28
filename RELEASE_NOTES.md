@@ -5,6 +5,17 @@ The Windows and Android versions share one terminal engine, so their version num
 
 ---
 
+## Windows, Mac and Linux 1.9.12 / Android 1.11.9 – November 27, 2026
+
+**Sixel animations with DEC macros, and VT340-accurate sixel pictures**
+- **Sixel animations play.** Systems that animate the DEC VT340 way store each sixel picture in the terminal as a macro (DECDMAC) and then play the macros one after another (DECINVM). DialComm now shows every picture for at least one frame instead of letting them flash past, at the new **Sixel animation** speed in Setup → Terminal Display (5 to 60 frames a second, 20 as standard, or as fast as they arrive). A macro that holds several pictures plays them in turn too.
+- **VT340 geometry in the VT-100 and VT-220 emulations.** A VT340's 800 x 480 picture area now fits the 80 x 24 text screen (10 x 20 sixel pixels per character cell), so pictures cover the same text lines as on the real terminal, whatever font DialComm uses. Checked against pictures taken on a real VT340 (hackerb9's vt340test): the cursor's row after a picture, scrolling at the bottom of the screen and inside margins, Sixel Display Mode (DECSDM), pixel aspect ratios from the first parameter and from raster attributes, background fill sizes, repeat counts, colour numbers taking the next free colour register, cut-short and interrupted pictures (CAN, SUB, ESC), and characters with no meaning inside a picture.
+- **Open .SIX files.** View ANSI Art… (or dragging a file onto the window) now opens sixel pictures and animations too. They play on a terminal screen exactly as if a host had sent them, in a new tab if this one is connected.
+- Programs that check for sixel support now find it: DialComm reports sixel graphics in its Device Attributes (xterm, Linux console and VT-220), and answers the colour register count, picture area and cell size questions (XTSMGRAPHICS, CSI 14/16/18 t).
+- ESC c (full reset) puts the sixel colour registers back to the VT340's defaults.
+
+---
+
 ## Windows, Mac and Linux 1.9.11 / Android 1.11.8 – November 27, 2026
 
 **Copy and Paste work again**

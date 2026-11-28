@@ -1,35 +1,35 @@
 {
   "page": "https://github.com/Dialsoft/dialcomm-releases",
   "windows": {
-    "version": "1.9.11",
-    "file": "DialComm-1.9.11-Setup.exe",
-    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.11/DialComm-1.9.11-Setup.exe",
-    "portableFile": "DialComm-1.9.11-Portable.exe",
-    "portableUrl": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.11/DialComm-1.9.11-Portable.exe",
-    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/windows-1.9.11",
-    "notes": "Paste was doing nothing at all\nTested by logging in to a RipScout BBS with the user name and…\nAndroid was not affected; it uses the phone's own clipboard"
+    "version": "1.9.12",
+    "file": "DialComm-1.9.12-Setup.exe",
+    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.12/DialComm-1.9.12-Setup.exe",
+    "portableFile": "DialComm-1.9.12-Portable.exe",
+    "portableUrl": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.12/DialComm-1.9.12-Portable.exe",
+    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/windows-1.9.12",
+    "notes": "Sixel animations play\nVT340 geometry in the VT-100 and VT-220 emulations\nOpen .SIX files\nPrograms that check for sixel support now find it\nESC c (full reset) puts the sixel colour registers back to the…"
   },
   "mac": {
-    "version": "1.9.11",
-    "file": "DialComm-1.9.11-Mac.dmg",
-    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.11/DialComm-1.9.11-Mac.dmg",
-    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/windows-1.9.11",
-    "notes": "Paste was doing nothing at all\nTested by logging in to a RipScout BBS with the user name and…\nAndroid was not affected; it uses the phone's own clipboard"
+    "version": "1.9.12",
+    "file": "DialComm-1.9.12-Mac.dmg",
+    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.12/DialComm-1.9.12-Mac.dmg",
+    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/windows-1.9.12",
+    "notes": "Sixel animations play\nVT340 geometry in the VT-100 and VT-220 emulations\nOpen .SIX files\nPrograms that check for sixel support now find it\nESC c (full reset) puts the sixel colour registers back to the…"
   },
   "linux": {
-    "version": "1.9.11",
-    "file": "DialComm-1.9.11-Linux.AppImage",
-    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.11/DialComm-1.9.11-Linux.AppImage",
-    "debFile": "DialComm-1.9.11-Linux-amd64.deb",
-    "debUrl": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.11/DialComm-1.9.11-Linux-amd64.deb",
-    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/windows-1.9.11",
-    "notes": "Paste was doing nothing at all\nTested by logging in to a RipScout BBS with the user name and…\nAndroid was not affected; it uses the phone's own clipboard"
+    "version": "1.9.12",
+    "file": "DialComm-1.9.12-Linux.AppImage",
+    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.12/DialComm-1.9.12-Linux.AppImage",
+    "debFile": "DialComm-1.9.12-Linux-amd64.deb",
+    "debUrl": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.12/DialComm-1.9.12-Linux-amd64.deb",
+    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/windows-1.9.12",
+    "notes": "Sixel animations play\nVT340 geometry in the VT-100 and VT-220 emulations\nOpen .SIX files\nPrograms that check for sixel support now find it\nESC c (full reset) puts the sixel colour registers back to the…"
   },
   "android": {
-    "version": "1.11.8",
-    "file": "DialComm-1.11.8.apk",
-    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/android-1.11.8/DialComm-1.11.8.apk",
-    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/android-1.11.8",
-    "notes": "Paste was doing nothing at all\nTested by logging in to a RipScout BBS with the user name and…\nAndroid was not affected; it uses the phone's own clipboard"
+    "version": "1.11.9",
+    "file": "DialComm-1.11.9.apk",
+    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/android-1.11.9/DialComm-1.11.9.apk",
+    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/android-1.11.9",
+    "notes": "Sixel animations play\nVT340 geometry in the VT-100 and VT-220 emulations\nOpen .SIX files\nPrograms that check for sixel support now find it\nESC c (full reset) puts the sixel colour registers back to the…"
   }
 }
