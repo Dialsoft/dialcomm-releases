@@ -5,6 +5,23 @@ The Windows and Android versions share one terminal engine, so their version num
 
 ---
 
+## Windows, Mac and Linux 1.9.15 / Android 1.11.12 – November 28, 2026
+
+**Drag and drop files with RipscoutBBS**
+- **Upload by dropping:** drag files from Windows Explorer (or your desktop) onto a RipscoutBBS file library list. The list grays while they hover; let go and they upload into that library by Zmodem, with no file picker. Several files at once work too.
+- **Download by dragging out:** drag a file's row out of the DialComm window and let go. The board sends it by Zmodem, and when it arrives its folder opens with the file selected.
+- For BBS authors: two new commands in DialComm's RIP level-8 extension: `|8F` (a file drop zone) and `|8D` (a download source). Other RIP terminals skip level 8, as the RIPscrip spec requires.
+- Dropping an art file anywhere else still opens it in the ANSI Art Viewer, as before.
+
+---
+
+## Windows, Mac and Linux 1.9.14 / Android 1.11.11 – November 27, 2026
+
+**RipscoutBBS is on port 3425**
+- The RipscoutBBS entry in the Dialing Directory (and Rapid Connect) now calls **ripscoutbbs.com port 3425**. Existing directories are updated once, automatically. If you had changed that entry's port yourself, it's left as you set it.
+
+---
+
 ## Windows, Mac and Linux 1.9.13 / Android 1.11.10 – November 27, 2026
 
 **RIPscrip in 25 lines, for boards laid out that way**

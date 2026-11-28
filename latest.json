@@ -1,35 +1,35 @@
 {
   "page": "https://github.com/Dialsoft/dialcomm-releases",
   "windows": {
-    "version": "1.9.13",
-    "file": "DialComm-1.9.13-Setup.exe",
-    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.13/DialComm-1.9.13-Setup.exe",
-    "portableFile": "DialComm-1.9.13-Portable.exe",
-    "portableUrl": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.13/DialComm-1.9.13-Portable.exe",
-    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/windows-1.9.13",
-    "notes": "A RIPscrip BBS can now be shown with 80 x 25 text lines (8x14…\nThanks to Skip Thompson for reporting this and testing; he is now…"
+    "version": "1.9.15",
+    "file": "DialComm-1.9.15-Setup.exe",
+    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.15/DialComm-1.9.15-Setup.exe",
+    "portableFile": "DialComm-1.9.15-Portable.exe",
+    "portableUrl": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.15/DialComm-1.9.15-Portable.exe",
+    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/windows-1.9.15",
+    "notes": "Upload by dropping\nDownload by dragging out\nFor BBS authors\nDropping an art file anywhere else still opens it in the ANSI Art…"
   },
   "mac": {
-    "version": "1.9.13",
-    "file": "DialComm-1.9.13-Mac.dmg",
-    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.13/DialComm-1.9.13-Mac.dmg",
-    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/windows-1.9.13",
-    "notes": "A RIPscrip BBS can now be shown with 80 x 25 text lines (8x14…\nThanks to Skip Thompson for reporting this and testing; he is now…"
+    "version": "1.9.15",
+    "file": "DialComm-1.9.15-Mac.dmg",
+    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.15/DialComm-1.9.15-Mac.dmg",
+    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/windows-1.9.15",
+    "notes": "Upload by dropping\nDownload by dragging out\nFor BBS authors\nDropping an art file anywhere else still opens it in the ANSI Art…"
   },
   "linux": {
-    "version": "1.9.13",
-    "file": "DialComm-1.9.13-Linux.AppImage",
-    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.13/DialComm-1.9.13-Linux.AppImage",
-    "debFile": "DialComm-1.9.13-Linux-amd64.deb",
-    "debUrl": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.13/DialComm-1.9.13-Linux-amd64.deb",
-    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/windows-1.9.13",
-    "notes": "A RIPscrip BBS can now be shown with 80 x 25 text lines (8x14…\nThanks to Skip Thompson for reporting this and testing; he is now…"
+    "version": "1.9.15",
+    "file": "DialComm-1.9.15-Linux.AppImage",
+    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.15/DialComm-1.9.15-Linux.AppImage",
+    "debFile": "DialComm-1.9.15-Linux-amd64.deb",
+    "debUrl": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.15/DialComm-1.9.15-Linux-amd64.deb",
+    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/windows-1.9.15",
+    "notes": "Upload by dropping\nDownload by dragging out\nFor BBS authors\nDropping an art file anywhere else still opens it in the ANSI Art…"
   },
   "android": {
-    "version": "1.11.10",
-    "file": "DialComm-1.11.10.apk",
-    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/android-1.11.10/DialComm-1.11.10.apk",
-    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/android-1.11.10",
-    "notes": "A RIPscrip BBS can now be shown with 80 x 25 text lines (8x14…\nThanks to Skip Thompson for reporting this and testing; he is now…"
+    "version": "1.11.12",
+    "file": "DialComm-1.11.12.apk",
+    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/android-1.11.12/DialComm-1.11.12.apk",
+    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/android-1.11.12",
+    "notes": "Upload by dropping\nDownload by dragging out\nFor BBS authors\nDropping an art file anywhere else still opens it in the ANSI Art…"
   }
 }
