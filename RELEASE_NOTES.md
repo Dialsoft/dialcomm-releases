@@ -5,6 +5,15 @@ The Windows and Android versions share one terminal engine, so their version num
 
 ---
 
+## Windows, Mac and Linux 1.9.16 / Android 1.11.13 – November 28, 2026
+
+**Screen-size query in RIP mode** (requested by Skip Thompson)
+- A BBS can ask how many text lines your screen has with `ESC P $ q t ESC \`. DialComm answers the way SyncTERM does, for example `ESC P 1 $ r 43 t ESC \` for 43 lines, so the board can suggest adjusting your display. This already worked in ANSI and the other text emulations; it now works in RIP mode too, where it used to get no answer and the `$qt` showed up on screen.
+- RIP mode also answers the column count (`ESC P $ q $| ESC \`) and the VT420 form of the line count (`ESC P $ q *| ESC \`).
+- Other `ESC P`, `ESC ]` and `ESC _` strings a board sends in RIP mode are now hidden instead of printed as stray characters.
+
+---
+
 ## Windows, Mac and Linux 1.9.15 / Android 1.11.12 – November 28, 2026
 
 **Drag and drop files with RipscoutBBS**

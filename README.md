@@ -21,12 +21,12 @@ DialComm calls the bulletin board systems still running today over the internet 
 
 | | Version | File |
 |---|---|---|
-| **Windows** (10 and 11): installer, recommended | 1.9.15 | [DialComm-1.9.15-Setup.exe](https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.15/DialComm-1.9.15-Setup.exe) |
-| **Windows**: portable, no install (for USB sticks; slower to start) | 1.9.15 | [DialComm-1.9.15-Portable.exe](https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.15/DialComm-1.9.15-Portable.exe) |
-| **Mac** (macOS 12 or later; Apple Silicon and Intel) | 1.9.15 | [DialComm-1.9.15-Mac.dmg](https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.15/DialComm-1.9.15-Mac.dmg) |
-| **Linux** (64-bit PC): AppImage, runs on any Linux | 1.9.15 | [DialComm-1.9.15-Linux.AppImage](https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.15/DialComm-1.9.15-Linux.AppImage) |
-| **Linux**: .deb package for Ubuntu, Debian, Mint, Pop!_OS... | 1.9.15 | [DialComm-1.9.15-Linux-amd64.deb](https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.15/DialComm-1.9.15-Linux-amd64.deb) |
-| **Android** | 1.11.12 | [DialComm-1.11.12.apk](https://github.com/Dialsoft/dialcomm-releases/releases/download/android-1.11.12/DialComm-1.11.12.apk) |
+| **Windows** (10 and 11): installer, recommended | 1.9.16 | [DialComm-1.9.16-Setup.exe](https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.16/DialComm-1.9.16-Setup.exe) |
+| **Windows**: portable, no install (for USB sticks; slower to start) | 1.9.16 | [DialComm-1.9.16-Portable.exe](https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.16/DialComm-1.9.16-Portable.exe) |
+| **Mac** (macOS 12 or later; Apple Silicon and Intel) | 1.9.16 | [DialComm-1.9.16-Mac.dmg](https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.16/DialComm-1.9.16-Mac.dmg) |
+| **Linux** (64-bit PC): AppImage, runs on any Linux | 1.9.16 | [DialComm-1.9.16-Linux.AppImage](https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.16/DialComm-1.9.16-Linux.AppImage) |
+| **Linux**: .deb package for Ubuntu, Debian, Mint, Pop!_OS... | 1.9.16 | [DialComm-1.9.16-Linux-amd64.deb](https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.16/DialComm-1.9.16-Linux-amd64.deb) |
+| **Android** | 1.11.13 | [DialComm-1.11.13.apk](https://github.com/Dialsoft/dialcomm-releases/releases/download/android-1.11.13/DialComm-1.11.13.apk) |
 
 **Windows:** download the **Setup** file and run it. It installs DialComm for you (no administrator rights needed), adds Start menu and desktop shortcuts, and opens it; after that DialComm starts in a second or two. The **portable** file needs no installing and runs from anywhere, such as a USB stick, but it unpacks itself each time, so it takes 15–20 seconds to open. Windows may warn that it doesn't recognise the program; click *More info* → *Run anyway*.
 

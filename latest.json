@@ -1,35 +1,35 @@
 {
   "page": "https://github.com/Dialsoft/dialcomm-releases",
   "windows": {
-    "version": "1.9.15",
-    "file": "DialComm-1.9.15-Setup.exe",
-    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.15/DialComm-1.9.15-Setup.exe",
-    "portableFile": "DialComm-1.9.15-Portable.exe",
-    "portableUrl": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.15/DialComm-1.9.15-Portable.exe",
-    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/windows-1.9.15",
-    "notes": "Upload by dropping\nDownload by dragging out\nFor BBS authors\nDropping an art file anywhere else still opens it in the ANSI Art…"
+    "version": "1.9.16",
+    "file": "DialComm-1.9.16-Setup.exe",
+    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.16/DialComm-1.9.16-Setup.exe",
+    "portableFile": "DialComm-1.9.16-Portable.exe",
+    "portableUrl": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.16/DialComm-1.9.16-Portable.exe",
+    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/windows-1.9.16",
+    "notes": "A BBS can ask how many text lines your screen has with ESC P $ q t…\nRIP mode also answers the column count\nOther ESC P, ESC ] and ESC _ strings a board sends in RIP mode are…"
   },
   "mac": {
-    "version": "1.9.15",
-    "file": "DialComm-1.9.15-Mac.dmg",
-    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.15/DialComm-1.9.15-Mac.dmg",
-    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/windows-1.9.15",
-    "notes": "Upload by dropping\nDownload by dragging out\nFor BBS authors\nDropping an art file anywhere else still opens it in the ANSI Art…"
+    "version": "1.9.16",
+    "file": "DialComm-1.9.16-Mac.dmg",
+    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.16/DialComm-1.9.16-Mac.dmg",
+    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/windows-1.9.16",
+    "notes": "A BBS can ask how many text lines your screen has with ESC P $ q t…\nRIP mode also answers the column count\nOther ESC P, ESC ] and ESC _ strings a board sends in RIP mode are…"
   },
   "linux": {
-    "version": "1.9.15",
-    "file": "DialComm-1.9.15-Linux.AppImage",
-    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.15/DialComm-1.9.15-Linux.AppImage",
-    "debFile": "DialComm-1.9.15-Linux-amd64.deb",
-    "debUrl": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.15/DialComm-1.9.15-Linux-amd64.deb",
-    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/windows-1.9.15",
-    "notes": "Upload by dropping\nDownload by dragging out\nFor BBS authors\nDropping an art file anywhere else still opens it in the ANSI Art…"
+    "version": "1.9.16",
+    "file": "DialComm-1.9.16-Linux.AppImage",
+    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.16/DialComm-1.9.16-Linux.AppImage",
+    "debFile": "DialComm-1.9.16-Linux-amd64.deb",
+    "debUrl": "https://github.com/Dialsoft/dialcomm-releases/releases/download/windows-1.9.16/DialComm-1.9.16-Linux-amd64.deb",
+    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/windows-1.9.16",
+    "notes": "A BBS can ask how many text lines your screen has with ESC P $ q t…\nRIP mode also answers the column count\nOther ESC P, ESC ] and ESC _ strings a board sends in RIP mode are…"
   },
   "android": {
-    "version": "1.11.12",
-    "file": "DialComm-1.11.12.apk",
-    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/android-1.11.12/DialComm-1.11.12.apk",
-    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/android-1.11.12",
-    "notes": "Upload by dropping\nDownload by dragging out\nFor BBS authors\nDropping an art file anywhere else still opens it in the ANSI Art…"
+    "version": "1.11.13",
+    "file": "DialComm-1.11.13.apk",
+    "url": "https://github.com/Dialsoft/dialcomm-releases/releases/download/android-1.11.13/DialComm-1.11.13.apk",
+    "page": "https://github.com/Dialsoft/dialcomm-releases/releases/tag/android-1.11.13",
+    "notes": "A BBS can ask how many text lines your screen has with ESC P $ q t…\nRIP mode also answers the column count\nOther ESC P, ESC ] and ESC _ strings a board sends in RIP mode are…"
   }
 }
