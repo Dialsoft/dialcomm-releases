@@ -5,6 +5,14 @@ The Windows and Android versions share one terminal engine, so their version num
 
 ---
 
+## Windows, Mac and Linux 1.9.13 / Android 1.11.10 – November 27, 2026
+
+**RIPscrip in 25 lines, for boards laid out that way**
+- A RIPscrip BBS can now be shown with **80 x 25** text lines (8x14 characters) instead of RIPscrip's standard 80 x 43 (8x8), as SyncTERM allows. Boards drawn for 25 lines, such as GBBS Pro boards on the Apple II, then put their text below their RIP title pictures instead of over them. While you're on a RIPscrip board, click the screen size on the Quick Select line and pick 80 x 25 or 80 x 43; DialComm remembers it for that BBS. A Directory entry set to 25 lines or fewer starts in 25 lines too, and the BBS is told the size you picked.
+- Thanks to **Skip Thompson** for reporting this and testing; he is now in the credits (Help → About, and Copyright and credits on Android).
+
+---
+
 ## Windows, Mac and Linux 1.9.12 / Android 1.11.9 – November 27, 2026
 
 **Sixel animations with DEC macros, and VT340-accurate sixel pictures**
@@ -285,7 +293,7 @@ SyncTERM-class terminal features:
 | Libraries | **ssh2** (SSH connections), **serialport** (real modems), **zmodem.js** (Zmodem protocol), **libjxl** compiled to WebAssembly (JPEG XL pictures), VileR's **Oldschool PC Font Pack** (fonts, CC BY-SA 4.0) |
 | Source control and builds | **Git**, with a private **GitHub** repository (Dialsoft/dialcomm). **GitHub Actions** builds and signs the Android app (APK and Google Play AAB) automatically on every change. The Windows .exe is built with electron-builder |
 | Testing | Automated walk-throughs that drive the real program with keyboard and mouse events and screenshots (Electron under a virtual display for Windows; **Playwright** with a simulated phone for Android). Local test BBS servers cover ANSI, CTerm, animation, links and RIPscrip |
-| Development | Written with **Claude** (Anthropic's AI), directed and tested by Marc Frega / Dialsoft LLC |
+| Development | Written with **Claude** (Anthropic's AI), directed and tested by Marc Frega / Dialsoft LLC. Thanks to **Skip Thompson** for his feedback and testing |
 
 ### Standards and protocols DialComm follows
 
